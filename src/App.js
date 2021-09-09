@@ -19,7 +19,7 @@ function App() {
       <Layout
         title="This is layout2 title" 
         descr="This is layout2 description..." 
-        colorBg="red"
+        colorBg="#e2e2e2"
       />
       <Layout 
         title="This is layout3 title" 
