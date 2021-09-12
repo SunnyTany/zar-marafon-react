@@ -26,7 +26,7 @@ function App() {
       </Layout>
       <Layout
         title="This is layout2 title"
-        colorBg="#ccc"
+        colorBg="#a9a9a9"
       >
         <PokemonCards />
       </Layout>
